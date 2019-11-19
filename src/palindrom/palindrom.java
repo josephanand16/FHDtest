@@ -8,7 +8,6 @@ public class palindrom {
 		boolean isPolindrome = false;
 		//these are the changes made by me 
 		//The changes has no effect on the program 
-		//Adding changes to code
 		//Adding change to new branch
 		if(a > 9999 && a < 100000)
         {           
